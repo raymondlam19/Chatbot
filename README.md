@@ -1,5 +1,5 @@
-# Chatbot
-telegram_trial
+# Chatbot-Telegram
+telegram api, olami nlp, flask (web framework), heroku (cloud server)
 
 t.me/Trial_9Oct_bot
 
